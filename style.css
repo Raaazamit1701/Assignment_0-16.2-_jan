@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main h1{
+    text-align: center;
+    font-size: bold;
+    margin-top: 20px;
+    padding: 20px;
+}
+.main img{
+    margin-left: 20vw ;
+    width: 60vw;
+    height: 40vh;
+}
+
+.main p{
+    width: 30vw;
+    color: #8c7e7e;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 35vw;
+    padding: 15px;
+}
+
+.vedio{
+    margin-left: 35vw;
+    padding: 20px;
+    width:30vw ;
+}
